@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Derrick Godwin
  */
 
 public class Class1 {
